@@ -1,0 +1,6 @@
+UNIVERSITY OF ENGINEERING & TECHNOLOGY PESHAWAR - NOWSHERA CAMPUS
+
+Name: DANIYAL BASHARAT
+Reg No: 22JZELE0467
+Course: Machine Learning Lab
+Supervisor: Engr. Irshad Ullah
